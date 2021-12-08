@@ -1,0 +1,36 @@
+{
+    "name": "@geeks-ltd/babel-config-react",
+    "description": "Basic babel config for simple react app",
+    "version": "0.1.0",
+    "sideEffects": false,
+    "main": "index.js",
+    "publishConfig": {
+        "access": "public",
+        "registry": "https://registry.npmjs.org/geeks-ltd"
+    },
+    "files": [
+        "index.js"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "Geeks",
+        "babel",
+        "config",
+        "react"
+    ],
+    "author": "Geeks Ltd.",
+    "dependencies": {
+        "@babel/plugin-transform-react-jsx": "^7.16.0",
+        "@babel/preset-react": "^7.13.13",
+        "@medly/babel-config": "0.1.4",
+        "babel-plugin-inline-react-svg": "1.1.1",
+        "babel-plugin-react-remove-properties": "^0.3.0",
+        "babel-plugin-styled-components": "^1.12.0",
+        "react-hot-loader": "^4.13.0"
+    },
+    "peerDependencies": {
+        "react": "16.x || 17.x",
+        "react-dom": "16.x || 17.x",
+        "styled-components": "^5.1.0"
+    }
+}

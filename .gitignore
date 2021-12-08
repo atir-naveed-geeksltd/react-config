@@ -1,0 +1,8 @@
+node_modules/
+coverage/
+*.log
+packages/**/dist
+.DS_Store
+.out/
+.idea
+.husky/_

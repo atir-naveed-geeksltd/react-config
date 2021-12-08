@@ -1,0 +1,35 @@
+{
+    "name": "@geeks-ltd/eslint-config-react",
+    "description": "Basic eslint config for react app",
+    "version": "0.1.0",
+    "sideEffects": false,
+    "main": "index.json",
+    "publishConfig": {
+        "access": "public",
+        "registry": "https://registry.npmjs.org/geeks-ltd"
+    },
+    "files": [
+        "index.json",
+        "react.json"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "Geeks",
+        "eslint",
+        "react",
+        "config",
+        "eslint-config"
+    ],
+    "env": {
+        "browser": true,
+        "node": true,
+        "jest": true
+    },
+    "dependencies": {
+        "@geeks/eslint-config": "0.1.0",
+        "eslint": "^7.28.0",
+        "eslint-plugin-react": "^7.23.2",
+        "eslint-plugin-react-hooks": "^4.2.0",
+        "eslint-plugin-testing-library": "^5.0.1"
+    }
+}

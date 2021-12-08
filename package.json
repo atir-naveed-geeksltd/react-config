@@ -1,0 +1,56 @@
+{
+    "name": "react-configs",
+    "version": "0.0.0",
+    "description": "Basic babel, rollup, webpack, semantic-release, jest, stylelint, eslint, prettier & typescript configs",
+    "private": true,
+    "workspaces": [
+        "packages/*"
+    ],
+    "keywords": [
+        "Geeks",
+        "babel",
+        "eslint",
+        "rollup",
+        "semantic-release",
+        "prettier",
+        "tsconfig",
+        "configs"
+    ],
+    "author": "Geeks Ltd.",
+    "license": "ISC",
+    "scripts": {
+        "prepare": "husky install",
+        "postinstall": "yarn link:packages && yarn init:commitizen",
+        "init:commitizen": "commitizen init cz-lerna-changelog --yarn --dev --exact --force",
+        "clean": "lerna clean && rimraf yarn.lock && rimraf node_modules",
+        "lint": "eslint 'packages/**/*.{js, ts}'",
+        "commit": "git-cz",
+        "link:packages": "lerna link && lerna exec -- yarn link",
+        "release": "cross-env HUSKY=0 lerna publish"
+    },
+    "config": {
+        "commitizen": {
+            "path": "./node_modules/cz-lerna-changelog"
+        }
+    },
+    "commitlint": {
+        "extends": [
+            "@commitlint/config-lerna-scopes"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/atir-naveed-geeksltd/react-config.git"
+    },
+    "devDependencies": {
+        "@commitlint/cli": "^15.0.0",
+        "@commitlint/config-lerna-scopes": "^15.0.0",
+        "commitizen": "4.0.3",
+        "cross-env": "^7.0.3",
+        "cz-lerna-changelog": "^2.0.2",
+        "husky": "^7.0.4",
+        "jest": "27.0.4",
+        "lerna": "^4.0.0",
+        "rimraf": "^3.0.1"
+    }
+}

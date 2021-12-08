@@ -1,0 +1,22 @@
+{
+    "name": "@geeks-ltd/typescript-config",
+    "description": "Basic typescript config",
+    "version": "0.1.0",
+    "sideEffects": false,
+    "main": "tsconfig.json",
+    "publishConfig": {
+        "access": "public",
+        "registry": "https://registry.npmjs.org/geeks-ltd"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "@types/jest": "^26.0.23",
+        "typescript": "4.2.4"
+    },
+    "keywords": [
+        "Geeks",
+        "typescript",
+        "tsconfig"
+    ],
+    "author": "Geeks Ltd."
+}

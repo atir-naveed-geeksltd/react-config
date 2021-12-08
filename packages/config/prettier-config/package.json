@@ -1,0 +1,22 @@
+{
+    "name": "@geeks-ltd/prettier-config",
+    "description": "Basic prettier config",
+    "version": "0.1.0",
+    "sideEffects": false,
+    "main": "index.json",
+    "publishConfig": {
+        "access": "public",
+        "registry": "https://registry.npmjs.org/geeks-ltd"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "prettier": "^2.3.1"
+    },
+    "keywords": [
+        "Geeks",
+        "prettier",
+        "config",
+        "prettier-config"
+    ],
+    "author": "Geeks Ltd."
+}
