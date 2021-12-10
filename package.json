@@ -38,6 +38,10 @@
             "@commitlint/config-lerna-scopes"
         ]
     },
+    "prettier": "@geeks-ltd/prettier-config",
+    "eslintConfig": {
+        "extends": "@geeks-ltd"
+    },
     "repository": {
         "type": "git",
         "url": "git://github.com/atir-naveed-geeksltd/react-config.git"
@@ -45,9 +49,12 @@
     "devDependencies": {
         "@commitlint/cli": "^15.0.0",
         "@commitlint/config-lerna-scopes": "^15.0.0",
+        "@geeks-ltd/eslint-config": "^0.1.0",
+        "@geeks-ltd/prettier-config": "^0.1.0",
+        "@geeks-ltd/typescript-config": "^0.1.0",
         "commitizen": "4.0.3",
         "cross-env": "^7.0.3",
-        "cz-lerna-changelog": "^2.0.2",
+        "cz-lerna-changelog": "2.0.3",
         "husky": "^7.0.4",
         "jest": "27.0.4",
         "lerna": "^4.0.0",
