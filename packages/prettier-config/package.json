@@ -1,0 +1,26 @@
+{
+    "name": "@geeks-ltd/prettier-config",
+    "description": "Basic prettier config",
+    "version": "0.1.0",
+    "sideEffects": false,
+    "main": "index.json",
+    "repository": {
+        "type": "git",
+        "url": "ssh://git@github.com/atir-naveed-geeksltd/react-config.git",
+        "directory": "packages/prettier-config"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "prettier": "^2.3.1"
+    },
+    "keywords": [
+        "Geeks",
+        "prettier",
+        "config",
+        "prettier-config"
+    ],
+    "author": "Geeks Ltd."
+}

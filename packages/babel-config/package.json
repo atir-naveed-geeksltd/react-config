@@ -1,0 +1,31 @@
+{
+    "name": "@geeks-ltd/babel-config",
+    "description": "Basic babel config for simple ts library",
+    "version": "0.1.0",
+    "sideEffects": false,
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "ssh://git@github.com/atir-naveed-geeksltd/react-config.git",
+        "directory": "packages/babel-config"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
+    "files": [
+        "index.js"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "geeks",
+        "babel",
+        "config"
+    ],
+    "author": "Geeks Ltd.",
+    "dependencies": {
+        "@babel/core": "^7.14.5",
+        "@babel/plugin-transform-runtime": "^7.14.2",
+        "@babel/preset-env": "^7.14.2",
+        "@babel/preset-typescript": "^7.13.0"
+    }
+}
