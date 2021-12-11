@@ -1,7 +1,7 @@
 {
     "name": "@atir-naveed-geeksltd/semantic-release-config",
     "description": "Basic semantic release config",
-    "version": "0.1.7",
+    "version": "0.1.8",
     "sideEffects": false,
     "main": "index.json",
     "repository": {
