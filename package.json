@@ -19,7 +19,10 @@
     "tsconfig",
     "configs"
   ],
- 
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:atir-naveed-geeksltd/react-config.git"
+  },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-lerna-changelog"
