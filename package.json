@@ -19,15 +19,25 @@
     "tsconfig",
     "configs"
   ],
+  "scripts": {
+    "prepare": "husky install",
+    "postinstall": "yarn link:packages && yarn init:commitizen",
+    "init:commitizen": "commitizen init cz-lerna-changelog --yarn --dev --exact --force",
+    "clean": "lerna clean && rimraf yarn.lock && rimraf node_modules",
+    "lint": "eslint 'packages/**/*.{js, ts}'",
+    "commit": "git-cz",
+    "link:packages": "lerna link && lerna exec -- yarn link",
+    "release": "cross-env HUSKY=0 lerna publish"
+  },
   "config": {
     "commitizen": {
-        "path": "./node_modules/cz-lerna-changelog"
+      "path": "./node_modules/cz-lerna-changelog"
     }
   },
   "commitlint": {
-      "extends": [
-          "@commitlint/config-lerna-scopes"
-      ]
+    "extends": [
+      "@commitlint/config-lerna-scopes"
+    ]
   },
   "devDependencies": {
     "@commitlint/cli": "^15.0.0",
