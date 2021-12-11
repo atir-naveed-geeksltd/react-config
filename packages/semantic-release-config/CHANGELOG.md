@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.7](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/semantic-release-config@0.1.6...@atir-naveed-geeksltd/semantic-release-config@0.1.7) (2021-12-11)
+
+**Note:** Version bump only for package @atir-naveed-geeksltd/semantic-release-config
+
+
+
+
+
 ## 0.1.6 (2021-12-11)
 
 **Note:** Version bump only for package @atir-naveed-geeksltd/semantic-release-config

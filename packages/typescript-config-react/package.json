@@ -1,7 +1,7 @@
 {
     "name": "@atir-naveed-geeksltd/typescript-config-react",
     "description": "Basic typescript config for react app",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "sideEffects": false,
     "main": "tsconfig.json",
     "repository": {
