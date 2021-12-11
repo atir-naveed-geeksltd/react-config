@@ -1,7 +1,7 @@
 {
     "name": "@geeks-ltd/babel-config-react",
     "description": "Basic babel config for simple react app",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "sideEffects": false,
     "main": "index.js",
     "repository": {
@@ -26,7 +26,7 @@
     "dependencies": {
         "@babel/plugin-transform-react-jsx": "^7.16.0",
         "@babel/preset-react": "^7.13.13",
-        "@geeks-ltd/babel-config": "0.1.0",
+        "@geeks-ltd/babel-config": "0.1.1",
         "babel-plugin-inline-react-svg": "1.1.1",
         "babel-plugin-react-remove-properties": "^0.3.0",
         "babel-plugin-styled-components": "^1.12.0",
