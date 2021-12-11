@@ -1,5 +1,5 @@
 {
-    "name": "@geeks-ltd/stylelint-config",
+    "name": "@atir-naveed-geeksltd/stylelint-config",
     "description": "Basic stylelint config",
     "version": "0.1.5",
     "sideEffects": false,

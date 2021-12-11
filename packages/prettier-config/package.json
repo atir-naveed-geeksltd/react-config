@@ -1,5 +1,5 @@
 {
-    "name": "@geeks-ltd/prettier-config",
+    "name": "@atir-naveed-geeksltd/prettier-config",
     "description": "Basic prettier config",
     "version": "0.1.5",
     "sideEffects": false,

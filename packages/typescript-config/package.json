@@ -1,5 +1,5 @@
 {
-    "name": "@geeks-ltd/typescript-config",
+    "name": "@atir-naveed-geeksltd/typescript-config",
     "description": "Basic typescript config",
     "version": "0.1.5",
     "sideEffects": false,

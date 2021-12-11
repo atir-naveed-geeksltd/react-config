@@ -1,5 +1,5 @@
 {
-    "name": "@geeks-ltd/typescript-config-react",
+    "name": "@atir-naveed-geeksltd/typescript-config-react",
     "description": "Basic typescript config for react app",
     "version": "0.1.5",
     "sideEffects": false,

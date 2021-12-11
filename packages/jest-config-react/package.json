@@ -1,5 +1,5 @@
 {
-    "name": "@geeks-ltd/jest-config-react",
+    "name": "@atir-naveed-geeksltd/jest-config-react",
     "description": "Basic jest config for react apps",
     "version": "0.1.5",
     "sideEffects": false,

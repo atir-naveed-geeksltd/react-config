@@ -1,5 +1,5 @@
 {
-    "extends": "@geeks-ltd/typescript-config",
+    "extends": "@atir-naveed-geeksltd/typescript-config",
     "include": ["packages"],
     "exclude": ["node_modules", "packages/**/dist"]
 }

@@ -1,5 +1,5 @@
 {
-    "name": "@geeks-ltd/rollup-config",
+    "name": "@atir-naveed-geeksltd/rollup-config",
     "description": "Basic rollup config",
     "version": "0.1.5",
     "sideEffects": false,

@@ -1,5 +1,5 @@
 {
-    "name": "@geeks-ltd/webpack-config",
+    "name": "@atir-naveed-geeksltd/webpack-config",
     "description": "Basic webpack config",
     "version": "0.1.5",
     "sideEffects": false,

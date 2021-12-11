@@ -1,5 +1,5 @@
 {
-    "name": "@geeks-ltd/babel-config",
+    "name": "@atir-naveed-geeksltd/babel-config",
     "description": "Basic babel config for simple ts library",
     "version": "0.1.5",
     "sideEffects": false,
