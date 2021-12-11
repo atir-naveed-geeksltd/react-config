@@ -11,7 +11,7 @@
         "directory": "packages/rollup-config"
     },
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/"
+        "registry": "https://npm.pkg.github.com/@geeks-ltd"
     },
     "files": [
         "index.js",
