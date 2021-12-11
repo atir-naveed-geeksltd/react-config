@@ -10,7 +10,7 @@
         "directory": "packages/typescript-config-react"
     },
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/@geeks-ltd"
+        "registry": "https://npm.pkg.github.com/"
     },
     "license": "MIT",
     "dependencies": {
@@ -24,5 +24,6 @@
         "react",
         "tsconfig"
     ],
-    "author": "Geeks Ltd."
+    "author": "Geeks Ltd.",
+    "gitHead": "2474ba0ce55557865e655fc4182be7d48fe96752"
 }

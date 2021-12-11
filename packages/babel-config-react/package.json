@@ -10,7 +10,7 @@
         "directory": "packages/babel-config-react"
     },
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/@geeks-ltd"
+        "registry": "https://npm.pkg.github.com/"
     },
     "files": [
         "index.js"
@@ -36,5 +36,6 @@
         "react": "16.x || 17.x",
         "react-dom": "16.x || 17.x",
         "styled-components": "^5.1.0"
-    }
+    },
+    "gitHead": "2474ba0ce55557865e655fc4182be7d48fe96752"
 }

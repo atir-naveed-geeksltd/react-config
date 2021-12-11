@@ -11,7 +11,7 @@
         "directory": "packages/rollup-config"
     },
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/@geeks-ltd"
+        "registry": "https://npm.pkg.github.com/"
     },
     "files": [
         "index.js",
@@ -35,5 +35,6 @@
         "rollup-plugin-terser": "^7.0.2",
         "tslib": "^2.2.0",
         "typescript": "4.2.4"
-    }
+    },
+    "gitHead": "2474ba0ce55557865e655fc4182be7d48fe96752"
 }

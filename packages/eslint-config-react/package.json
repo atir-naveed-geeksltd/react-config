@@ -10,7 +10,7 @@
         "directory": "packages/eslint-config-react"
     },
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/@geeks-ltd"
+        "registry": "https://npm.pkg.github.com/"
     },
     "files": [
         "index.json",
@@ -35,5 +35,6 @@
         "eslint-plugin-react": "^7.23.2",
         "eslint-plugin-react-hooks": "^4.2.0",
         "eslint-plugin-testing-library": "^5.0.1"
-    }
+    },
+    "gitHead": "2474ba0ce55557865e655fc4182be7d48fe96752"
 }
