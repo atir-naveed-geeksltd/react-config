@@ -1,7 +1,7 @@
 {
     "name": "@atir-naveed-geeksltd/prettier-config",
     "description": "Basic prettier config",
-    "version": "0.1.11",
+    "version": "0.1.12",
     "sideEffects": false,
     "main": "index.json",
     "repository": {

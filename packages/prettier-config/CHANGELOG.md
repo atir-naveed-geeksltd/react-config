@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.12](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/prettier-config@0.1.11...@atir-naveed-geeksltd/prettier-config@0.1.12) (2021-12-12)
+
+**Note:** Version bump only for package @atir-naveed-geeksltd/prettier-config
+
+
+
+
+
 ## [0.1.11](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/prettier-config@0.1.10...@atir-naveed-geeksltd/prettier-config@0.1.11) (2021-12-12)
 
 **Note:** Version bump only for package @atir-naveed-geeksltd/prettier-config
