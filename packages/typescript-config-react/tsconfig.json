@@ -1,5 +1,5 @@
 {
-    "extends": "@atir-naveed-geeksltd/typescript-config",
+    "extends": "@atir-naveed-geeksltd/typescript-config/tsconfig.json",
     "compilerOptions": {
         "jsx": "react-jsx",
         "types": ["jest", "node", "testing-library__jest-dom"]
