@@ -60,5 +60,5 @@ module.exports = function (api) {
         plugins.push(['react-remove-properties', { properties: ['data-testid'] }]);
     }
 
-    return { presets, plugins, overrides, extends: '@medly/babel-config' };
+    return { presets, plugins, overrides, extends: '@atir-naveed-geeksltd/babel-config' };
 };
