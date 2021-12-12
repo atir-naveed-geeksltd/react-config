@@ -14,7 +14,7 @@
     },
     "license": "MIT",
     "dependencies": {
-        "@medly/typescript-config": "1.1.1",
+        "@atir-naveed-geeksltd/typescript-config": "^0.1.0",
         "@testing-library/jest-dom": "^5.13.0",
         "typescript": "4.2.4"
     },
