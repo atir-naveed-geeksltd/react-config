@@ -7,7 +7,7 @@ Medly recommended rules to better compile your TypeScript based react project.
 ## Install
 
 ```shell
-yarn add -D @medly/typescript-config-react
+yarn add -D @atir-naveed-geeksltd/typescript-config-react
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ Add below code in `tsconfig.json` file.
 
 ```json
 {
- "extends": "@medly/typescript-config-react",
+ "extends": "@atir-naveed-geeksltd/typescript-config-react",
  "include": ["src", "types"],
  "exclude": ["node_modules", "dist", "coverage"]
 }

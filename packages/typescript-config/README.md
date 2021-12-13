@@ -15,7 +15,7 @@ Medly recommended rules to better compile your TypeScript project.
 ## Install
 
 ```shell
-yarn add -D @medly/typescript-config
+yarn add -D @atir-naveed-geeksltd/typescript-config
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ Add below code in `tsconfig.json` file.
 
 ```json
 {
- "extends": "@medly/typescript-config",
+ "extends": "@atir-naveed-geeksltd/typescript-config",
  "include": ["src", "types"],
  "exclude": ["node_modules", "dist", "coverage"]
 }

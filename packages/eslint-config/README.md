@@ -9,7 +9,7 @@ It is a tool for identifying and reporting on patterns found in ECMAScript/JavaS
 ## Install
 
 ```shell
-yarn add -D @medly/eslint-config
+yarn add -D @atir-naveed-geeksltd/eslint-config
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ Add below line in your `package.json`
 ```json
 {
  "eslintConfig": {
-  "extends": "@medly"
+  "extends": "@atir-naveed-geeksltd"
  }
 }
 ```

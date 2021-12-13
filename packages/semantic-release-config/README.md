@@ -13,7 +13,7 @@
 ## Install
 
 ```shell
-yarn add -D @medly/semantic-release-config
+yarn add -D @atir-naveed-geeksltd/semantic-release-config
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ Add below line in your `package.json`
 ```json
 {
  "release": {
-  "extends": "@medly/semantic-release-config"
+  "extends": "@atir-naveed-geeksltd/semantic-release-config"
  }
 }
 ```

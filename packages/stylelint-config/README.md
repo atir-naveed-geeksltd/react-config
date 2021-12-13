@@ -13,7 +13,7 @@ A mighty, modern linter that helps you avoid errors and enforce conventions in y
 ## Install
 
 ```shell
-yarn add -D @medly/stylelint-config
+yarn add -D @atir-naveed-geeksltd/stylelint-config
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ Add below line in your `package.json`
 
 ```json
 {
- "stylelint": { "extends": "@medly/stylelint-config" }
+ "stylelint": { "extends": "@atir-naveed-geeksltd/stylelint-config" }
 }
 ```
 

@@ -13,7 +13,7 @@ Jest rules recommended by Medly to provide more configuration power to your reac
 ## Install
 
 ```shell
-yarn add -D @medly/jest-config-react
+yarn add -D @atir-naveed-geeksltd/jest-config-react
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ yarn add -D @medly/jest-config-react
 Add below code in your `jest.config.js`
 
 ```js
-const { configure } = require('@medly/jest-config-react');
+const { configure } = require('@atir-naveed-geeksltd/jest-config-react');
 
 module.exports = configure({
  rootDir: './'

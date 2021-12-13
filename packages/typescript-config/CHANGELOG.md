@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.15](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/typescript-config@0.1.13...@atir-naveed-geeksltd/typescript-config@0.1.15) (2021-12-13)
+
+**Note:** Version bump only for package @atir-naveed-geeksltd/typescript-config
+
+
+
+
+
+## [0.1.14](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/typescript-config@0.1.13...@atir-naveed-geeksltd/typescript-config@0.1.14) (2021-12-13)
+
+**Note:** Version bump only for package @atir-naveed-geeksltd/typescript-config
+
+
+
+
+
 ## [0.1.13](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/typescript-config@0.1.12...@atir-naveed-geeksltd/typescript-config@0.1.13) (2021-12-12)
 
 **Note:** Version bump only for package @atir-naveed-geeksltd/typescript-config
@@ -109,7 +125,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.1](https://github.com/medly/configs/compare/@medly/typescript-config@1.1.0...@medly/typescript-config@1.1.1) (2021-10-20)
+## [1.1.1](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config@1.1.0...@atir-naveed-geeksltd/typescript-config@1.1.1) (2021-10-20)
 
 
 ### Bug Fixes
@@ -120,7 +136,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.1.0](https://github.com/medly/configs/compare/@medly/typescript-config@0.3.1...@medly/typescript-config@1.1.0) (2021-10-06)
+# [1.1.0](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config@0.3.1...@atir-naveed-geeksltd/typescript-config@1.1.0) (2021-10-06)
 
 
 ### Features
@@ -131,7 +147,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.1](https://github.com/medly/configs/compare/@medly/typescript-config@0.3.0...@medly/typescript-config@0.3.1) (2021-10-06)
+## [0.3.1](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config@0.3.0...@atir-naveed-geeksltd/typescript-config@0.3.1) (2021-10-06)
 
 
 ### Reverts
@@ -142,7 +158,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.3.0](https://github.com/medly/configs/compare/@medly/typescript-config@0.2.4...@medly/typescript-config@0.3.0) (2021-10-06)
+# [0.3.0](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config@0.2.4...@atir-naveed-geeksltd/typescript-config@0.3.0) (2021-10-06)
 
 
 ### Features
@@ -158,15 +174,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.2.4](https://github.com/medly/configs/compare/@medly/typescript-config@0.2.3...@medly/typescript-config@0.2.4) (2021-09-23)
+## [0.2.4](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config@0.2.3...@atir-naveed-geeksltd/typescript-config@0.2.4) (2021-09-23)
 
-**Note:** Version bump only for package @medly/typescript-config
-
-
+**Note:** Version bump only for package @atir-naveed-geeksltd/typescript-config
 
 
 
-## [0.2.3](https://github.com/medly/configs/compare/@medly/typescript-config@0.2.2...@medly/typescript-config@0.2.3) (2021-08-31)
+
+
+## [0.2.3](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config@0.2.2...@atir-naveed-geeksltd/typescript-config@0.2.3) (2021-08-31)
 
 
 ### Bug Fixes
@@ -177,7 +193,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.2.2](https://github.com/medly/configs/compare/@medly/typescript-config@0.2.1...@medly/typescript-config@0.2.2) (2021-06-10)
+## [0.2.2](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config@0.2.1...@atir-naveed-geeksltd/typescript-config@0.2.2) (2021-06-10)
 
 
 ### Bug Fixes
@@ -188,7 +204,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.2.1](https://github.com/medly/configs/compare/@medly/typescript-config@0.2.0...@medly/typescript-config@0.2.1) (2021-06-07)
+## [0.2.1](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config@0.2.0...@atir-naveed-geeksltd/typescript-config@0.2.1) (2021-06-07)
 
 
 ### Bug Fixes
@@ -199,7 +215,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.2.0](https://github.com/medly/configs/compare/@medly/typescript-config@0.1.2...@medly/typescript-config@0.2.0) (2021-06-02)
+# [0.2.0](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config@0.1.2...@atir-naveed-geeksltd/typescript-config@0.2.0) (2021-06-02)
 
 
 ### Features
@@ -210,15 +226,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.2](https://github.com/medly/configs/compare/@medly/typescript-config@0.1.1...@medly/typescript-config@0.1.2) (2021-06-01)
+## [0.1.2](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config@0.1.1...@atir-naveed-geeksltd/typescript-config@0.1.2) (2021-06-01)
 
-**Note:** Version bump only for package @medly/typescript-config
-
-
+**Note:** Version bump only for package @atir-naveed-geeksltd/typescript-config
 
 
 
-## [0.1.1](https://github.com/medly/configs/compare/@medly/typescript-config@0.1.0...@medly/typescript-config@0.1.1) (2021-06-01)
+
+
+## [0.1.1](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config@0.1.0...@atir-naveed-geeksltd/typescript-config@0.1.1) (2021-06-01)
 
 
 ### Bug Fixes

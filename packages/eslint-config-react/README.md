@@ -7,7 +7,7 @@ Eslint rules recommended by Medly to provide more linting power to your react ba
 ## Install
 
 ```shell
-yarn add -D @medly/eslint-config-react
+yarn add -D @atir-naveed-geeksltd/eslint-config-react
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ Add below line in your `package.json`
 {
  "eslintConfig": {
   "parser": "@typescript-eslint/parser",
-  "extends": "@medly/react"
+  "extends": "@atir-naveed-geeksltd/react"
  }
 }
 ```

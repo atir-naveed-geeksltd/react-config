@@ -1,7 +1,7 @@
 {
     "name": "@atir-naveed-geeksltd/typescript-config-react",
     "description": "Basic typescript config for react app",
-    "version": "0.1.13",
+    "version": "0.1.15",
     "sideEffects": false,
     "main": "tsconfig.json",
     "repository": {
@@ -10,11 +10,11 @@
         "directory": "packages/typescript-config-react"
     },
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/"
+        "registry": "https://registry.npmjs.org/atir-naveed-geeksltd"
     },
     "license": "MIT",
     "dependencies": {
-        "@atir-naveed-geeksltd/typescript-config": "0.1.13",
+        "@atir-naveed-geeksltd/typescript-config": "0.1.15",
         "@testing-library/jest-dom": "^5.13.0",
         "typescript": "4.2.4"
     },

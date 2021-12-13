@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.15](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/rollup-config@0.1.13...@atir-naveed-geeksltd/rollup-config@0.1.15) (2021-12-13)
+
+**Note:** Version bump only for package @atir-naveed-geeksltd/rollup-config
+
+
+
+
+
+## [0.1.14](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/rollup-config@0.1.13...@atir-naveed-geeksltd/rollup-config@0.1.14) (2021-12-13)
+
+**Note:** Version bump only for package @atir-naveed-geeksltd/rollup-config
+
+
+
+
+
 ## [0.1.13](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/rollup-config@0.1.12...@atir-naveed-geeksltd/rollup-config@0.1.13) (2021-12-12)
 
 **Note:** Version bump only for package @atir-naveed-geeksltd/rollup-config
@@ -109,7 +125,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.4](https://github.com/medly/configs/compare/@medly/rollup-config@0.7.3...@medly/rollup-config@0.7.4) (2021-10-20)
+## [0.7.4](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/rollup-config@0.7.3...@atir-naveed-geeksltd/rollup-config@0.7.4) (2021-10-20)
 
 
 ### Bug Fixes
@@ -120,15 +136,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.3](https://github.com/medly/configs/compare/@medly/rollup-config@0.7.2...@medly/rollup-config@0.7.3) (2021-09-23)
+## [0.7.3](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/rollup-config@0.7.2...@atir-naveed-geeksltd/rollup-config@0.7.3) (2021-09-23)
 
-**Note:** Version bump only for package @medly/rollup-config
-
-
+**Note:** Version bump only for package @atir-naveed-geeksltd/rollup-config
 
 
 
-## [0.7.2](https://github.com/medly/configs/compare/@medly/rollup-config@0.7.1...@medly/rollup-config@0.7.2) (2021-08-31)
+
+
+## [0.7.2](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/rollup-config@0.7.1...@atir-naveed-geeksltd/rollup-config@0.7.2) (2021-08-31)
 
 
 ### Bug Fixes
@@ -139,7 +155,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.1](https://github.com/medly/configs/compare/@medly/rollup-config@0.7.0...@medly/rollup-config@0.7.1) (2021-08-31)
+## [0.7.1](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/rollup-config@0.7.0...@atir-naveed-geeksltd/rollup-config@0.7.1) (2021-08-31)
 
 
 ### Bug Fixes
@@ -150,18 +166,18 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.7.0](https://github.com/medly/configs/compare/@medly/rollup-config@0.6.0...@medly/rollup-config@0.7.0) (2021-07-26)
+# [0.7.0](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/rollup-config@0.6.0...@atir-naveed-geeksltd/rollup-config@0.7.0) (2021-07-26)
 
 
 ### Features
 
-* **jest-config-react:** ddd types for configure method exported by '@medly/jest-config-react' ([#55](https://github.com/medly/configs/issues/55)) ([3b1ec83](https://github.com/medly/configs/commit/3b1ec83c981a742d4ae3e3c0186d1d757e2c96b4))
+* **jest-config-react:** ddd types for configure method exported by '@atir-naveed-geeksltd/jest-config-react' ([#55](https://github.com/medly/configs/issues/55)) ([3b1ec83](https://github.com/medly/configs/commit/3b1ec83c981a742d4ae3e3c0186d1d757e2c96b4))
 
 
 
 
 
-# [0.6.0](https://github.com/medly/configs/compare/@medly/rollup-config@0.5.0...@medly/rollup-config@0.6.0) (2021-07-21)
+# [0.6.0](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/rollup-config@0.5.0...@atir-naveed-geeksltd/rollup-config@0.6.0) (2021-07-21)
 
 
 ### Features
@@ -172,7 +188,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.5.0](https://github.com/medly/configs/compare/@medly/rollup-config@0.4.0...@medly/rollup-config@0.5.0) (2021-06-29)
+# [0.5.0](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/rollup-config@0.4.0...@atir-naveed-geeksltd/rollup-config@0.5.0) (2021-06-29)
 
 
 ### Features
@@ -183,7 +199,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.4.0](https://github.com/medly/configs/compare/@medly/rollup-config@0.3.0...@medly/rollup-config@0.4.0) (2021-06-29)
+# [0.4.0](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/rollup-config@0.3.0...@atir-naveed-geeksltd/rollup-config@0.4.0) (2021-06-29)
 
 
 ### Features
@@ -194,7 +210,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.3.0](https://github.com/medly/configs/compare/@medly/rollup-config@0.2.1...@medly/rollup-config@0.3.0) (2021-06-16)
+# [0.3.0](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/rollup-config@0.2.1...@atir-naveed-geeksltd/rollup-config@0.3.0) (2021-06-16)
 
 
 ### Features
@@ -205,7 +221,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.2.1](https://github.com/medly/configs/compare/@medly/rollup-config@0.2.0...@medly/rollup-config@0.2.1) (2021-06-10)
+## [0.2.1](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/rollup-config@0.2.0...@atir-naveed-geeksltd/rollup-config@0.2.1) (2021-06-10)
 
 
 ### Bug Fixes
@@ -216,7 +232,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.2.0](https://github.com/medly/configs/compare/@medly/rollup-config@0.1.3...@medly/rollup-config@0.2.0) (2021-06-09)
+# [0.2.0](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/rollup-config@0.1.3...@atir-naveed-geeksltd/rollup-config@0.2.0) (2021-06-09)
 
 
 ### Features
@@ -227,7 +243,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.3](https://github.com/medly/configs/compare/@medly/rollup-config@0.1.2...@medly/rollup-config@0.1.3) (2021-06-01)
+## [0.1.3](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/rollup-config@0.1.2...@atir-naveed-geeksltd/rollup-config@0.1.3) (2021-06-01)
 
 
 ### Bug Fixes
@@ -238,7 +254,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.2](https://github.com/medly/configs/compare/@medly/rollup-config@0.1.1...@medly/rollup-config@0.1.2) (2021-06-01)
+## [0.1.2](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/rollup-config@0.1.1...@atir-naveed-geeksltd/rollup-config@0.1.2) (2021-06-01)
 
 
 ### Bug Fixes
@@ -249,9 +265,9 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.1](https://github.com/medly/configs/compare/@medly/rollup-config@0.1.0...@medly/rollup-config@0.1.1) (2021-05-31)
+## [0.1.1](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/rollup-config@0.1.0...@atir-naveed-geeksltd/rollup-config@0.1.1) (2021-05-31)
 
-**Note:** Version bump only for package @medly/rollup-config
+**Note:** Version bump only for package @atir-naveed-geeksltd/rollup-config
 
 
 

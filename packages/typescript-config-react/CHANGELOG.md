@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.15](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/typescript-config-react@0.1.13...@atir-naveed-geeksltd/typescript-config-react@0.1.15) (2021-12-13)
+
+**Note:** Version bump only for package @atir-naveed-geeksltd/typescript-config-react
+
+
+
+
+
+## [0.1.14](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/typescript-config-react@0.1.13...@atir-naveed-geeksltd/typescript-config-react@0.1.14) (2021-12-13)
+
+**Note:** Version bump only for package @atir-naveed-geeksltd/typescript-config-react
+
+
+
+
+
 ## [0.1.13](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/typescript-config-react@0.1.12...@atir-naveed-geeksltd/typescript-config-react@0.1.13) (2021-12-12)
 
 **Note:** Version bump only for package @atir-naveed-geeksltd/typescript-config-react
@@ -109,7 +125,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.4.0](https://github.com/medly/configs/compare/@medly/typescript-config-react@1.3.0...@medly/typescript-config-react@1.4.0) (2021-11-10)
+# [1.4.0](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config-react@1.3.0...@atir-naveed-geeksltd/typescript-config-react@1.4.0) (2021-11-10)
 
 
 ### Features
@@ -120,7 +136,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.3.0](https://github.com/medly/configs/compare/@medly/typescript-config-react@1.2.0...@medly/typescript-config-react@1.3.0) (2021-10-20)
+# [1.3.0](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config-react@1.2.0...@atir-naveed-geeksltd/typescript-config-react@1.3.0) (2021-10-20)
 
 
 ### Bug Fixes
@@ -136,7 +152,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.2.0](https://github.com/medly/configs/compare/@medly/typescript-config-react@1.1.0...@medly/typescript-config-react@1.2.0) (2021-10-06)
+# [1.2.0](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config-react@1.1.0...@atir-naveed-geeksltd/typescript-config-react@1.2.0) (2021-10-06)
 
 
 ### Features
@@ -147,7 +163,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.1.0](https://github.com/medly/configs/compare/@medly/typescript-config-react@0.0.6...@medly/typescript-config-react@1.1.0) (2021-10-06)
+# [1.1.0](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config-react@0.0.6...@atir-naveed-geeksltd/typescript-config-react@1.1.0) (2021-10-06)
 
 
 ### Features
@@ -158,31 +174,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.0.6](https://github.com/medly/configs/compare/@medly/typescript-config-react@0.0.5...@medly/typescript-config-react@0.0.6) (2021-10-06)
+## [0.0.6](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config-react@0.0.5...@atir-naveed-geeksltd/typescript-config-react@0.0.6) (2021-10-06)
 
-**Note:** Version bump only for package @medly/typescript-config-react
-
-
-
-
-
-## [0.0.5](https://github.com/medly/configs/compare/@medly/typescript-config-react@0.0.4...@medly/typescript-config-react@0.0.5) (2021-10-06)
-
-**Note:** Version bump only for package @medly/typescript-config-react
+**Note:** Version bump only for package @atir-naveed-geeksltd/typescript-config-react
 
 
 
 
 
-## [0.0.4](https://github.com/medly/configs/compare/@medly/typescript-config-react@0.0.3...@medly/typescript-config-react@0.0.4) (2021-09-23)
+## [0.0.5](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config-react@0.0.4...@atir-naveed-geeksltd/typescript-config-react@0.0.5) (2021-10-06)
 
-**Note:** Version bump only for package @medly/typescript-config-react
-
-
+**Note:** Version bump only for package @atir-naveed-geeksltd/typescript-config-react
 
 
 
-## [0.0.3](https://github.com/medly/configs/compare/@medly/typescript-config-react@0.0.2...@medly/typescript-config-react@0.0.3) (2021-08-31)
+
+
+## [0.0.4](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config-react@0.0.3...@atir-naveed-geeksltd/typescript-config-react@0.0.4) (2021-09-23)
+
+**Note:** Version bump only for package @atir-naveed-geeksltd/typescript-config-react
+
+
+
+
+
+## [0.0.3](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config-react@0.0.2...@atir-naveed-geeksltd/typescript-config-react@0.0.3) (2021-08-31)
 
 
 ### Bug Fixes
@@ -193,7 +209,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.0.2](https://github.com/medly/configs/compare/@medly/typescript-config-react@0.0.1...@medly/typescript-config-react@0.0.2) (2021-06-10)
+## [0.0.2](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/typescript-config-react@0.0.1...@atir-naveed-geeksltd/typescript-config-react@0.0.2) (2021-06-10)
 
 
 ### Bug Fixes

@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.15](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/semantic-release-config@0.1.13...@atir-naveed-geeksltd/semantic-release-config@0.1.15) (2021-12-13)
+
+**Note:** Version bump only for package @atir-naveed-geeksltd/semantic-release-config
+
+
+
+
+
+## [0.1.14](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/semantic-release-config@0.1.13...@atir-naveed-geeksltd/semantic-release-config@0.1.14) (2021-12-13)
+
+**Note:** Version bump only for package @atir-naveed-geeksltd/semantic-release-config
+
+
+
+
+
 ## [0.1.13](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/semantic-release-config@0.1.12...@atir-naveed-geeksltd/semantic-release-config@0.1.13) (2021-12-12)
 
 **Note:** Version bump only for package @atir-naveed-geeksltd/semantic-release-config
@@ -109,31 +125,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.5](https://github.com/medly/configs/compare/@medly/semantic-release-config@0.1.4...@medly/semantic-release-config@0.1.5) (2021-08-03)
+## [0.1.5](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/semantic-release-config@0.1.4...@atir-naveed-geeksltd/semantic-release-config@0.1.5) (2021-08-03)
 
-**Note:** Version bump only for package @medly/semantic-release-config
-
-
-
-
-
-## [0.1.4](https://github.com/medly/configs/compare/@medly/semantic-release-config@0.1.3...@medly/semantic-release-config@0.1.4) (2021-06-24)
-
-**Note:** Version bump only for package @medly/semantic-release-config
+**Note:** Version bump only for package @atir-naveed-geeksltd/semantic-release-config
 
 
 
 
 
-## [0.1.3](https://github.com/medly/configs/compare/@medly/semantic-release-config@0.1.2...@medly/semantic-release-config@0.1.3) (2021-06-21)
+## [0.1.4](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/semantic-release-config@0.1.3...@atir-naveed-geeksltd/semantic-release-config@0.1.4) (2021-06-24)
 
-**Note:** Version bump only for package @medly/semantic-release-config
-
-
+**Note:** Version bump only for package @atir-naveed-geeksltd/semantic-release-config
 
 
 
-## [0.1.2](https://github.com/medly/configs/compare/@medly/semantic-release-config@0.1.1...@medly/semantic-release-config@0.1.2) (2021-06-10)
+
+
+## [0.1.3](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/semantic-release-config@0.1.2...@atir-naveed-geeksltd/semantic-release-config@0.1.3) (2021-06-21)
+
+**Note:** Version bump only for package @atir-naveed-geeksltd/semantic-release-config
+
+
+
+
+
+## [0.1.2](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/semantic-release-config@0.1.1...@atir-naveed-geeksltd/semantic-release-config@0.1.2) (2021-06-10)
 
 
 ### Bug Fixes
@@ -144,9 +160,9 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.1](https://github.com/medly/configs/compare/@medly/semantic-release-config@0.1.0...@medly/semantic-release-config@0.1.1) (2021-05-31)
+## [0.1.1](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/semantic-release-config@0.1.0...@atir-naveed-geeksltd/semantic-release-config@0.1.1) (2021-05-31)
 
-**Note:** Version bump only for package @medly/semantic-release-config
+**Note:** Version bump only for package @atir-naveed-geeksltd/semantic-release-config
 
 
 

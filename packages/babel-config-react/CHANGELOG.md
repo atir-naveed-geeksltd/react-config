@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.15](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/babel-config-react@0.1.13...@atir-naveed-geeksltd/babel-config-react@0.1.15) (2021-12-13)
+
+**Note:** Version bump only for package @atir-naveed-geeksltd/babel-config-react
+
+
+
+
+
+## [0.1.14](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/babel-config-react@0.1.13...@atir-naveed-geeksltd/babel-config-react@0.1.14) (2021-12-13)
+
+**Note:** Version bump only for package @atir-naveed-geeksltd/babel-config-react
+
+
+
+
+
 ## [0.1.13](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/babel-config-react@0.1.12...@atir-naveed-geeksltd/babel-config-react@0.1.13) (2021-12-12)
 
 **Note:** Version bump only for package @atir-naveed-geeksltd/babel-config-react
@@ -109,7 +125,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.5.0](https://github.com/medly/configs/compare/@medly/babel-config-react@0.4.0...@medly/babel-config-react@0.5.0) (2021-11-10)
+# [0.5.0](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/babel-config-react@0.4.0...@atir-naveed-geeksltd/babel-config-react@0.5.0) (2021-11-10)
 
 
 ### Features
@@ -120,7 +136,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.4.0](https://github.com/medly/configs/compare/@medly/babel-config-react@0.3.2...@medly/babel-config-react@0.4.0) (2021-10-21)
+# [0.4.0](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/babel-config-react@0.3.2...@atir-naveed-geeksltd/babel-config-react@0.4.0) (2021-10-21)
 
 
 ### Features
@@ -131,7 +147,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.2](https://github.com/medly/configs/compare/@medly/babel-config-react@0.3.1...@medly/babel-config-react@0.3.2) (2021-10-14)
+## [0.3.2](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/babel-config-react@0.3.1...@atir-naveed-geeksltd/babel-config-react@0.3.2) (2021-10-14)
 
 
 ### Bug Fixes
@@ -142,7 +158,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.1](https://github.com/medly/configs/compare/@medly/babel-config-react@0.3.0...@medly/babel-config-react@0.3.1) (2021-10-14)
+## [0.3.1](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/babel-config-react@0.3.0...@atir-naveed-geeksltd/babel-config-react@0.3.1) (2021-10-14)
 
 
 ### Bug Fixes
@@ -153,7 +169,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.3.0](https://github.com/medly/configs/compare/@medly/babel-config-react@0.2.2...@medly/babel-config-react@0.3.0) (2021-10-04)
+# [0.3.0](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/babel-config-react@0.2.2...@atir-naveed-geeksltd/babel-config-react@0.3.0) (2021-10-04)
 
 
 ### Features
@@ -164,15 +180,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.2.2](https://github.com/medly/configs/compare/@medly/babel-config-react@0.2.1...@medly/babel-config-react@0.2.2) (2021-08-31)
+## [0.2.2](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/babel-config-react@0.2.1...@atir-naveed-geeksltd/babel-config-react@0.2.2) (2021-08-31)
 
-**Note:** Version bump only for package @medly/babel-config-react
-
-
+**Note:** Version bump only for package @atir-naveed-geeksltd/babel-config-react
 
 
 
-## [0.2.1](https://github.com/medly/configs/compare/@medly/babel-config-react@0.2.0...@medly/babel-config-react@0.2.1) (2021-06-29)
+
+
+## [0.2.1](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/babel-config-react@0.2.0...@atir-naveed-geeksltd/babel-config-react@0.2.1) (2021-06-29)
 
 
 ### Bug Fixes
@@ -183,7 +199,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.2.0](https://github.com/medly/configs/compare/@medly/babel-config-react@0.1.5...@medly/babel-config-react@0.2.0) (2021-06-29)
+# [0.2.0](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/babel-config-react@0.1.5...@atir-naveed-geeksltd/babel-config-react@0.2.0) (2021-06-29)
 
 
 ### Features
@@ -194,7 +210,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.5](https://github.com/medly/configs/compare/@medly/babel-config-react@0.1.4...@medly/babel-config-react@0.1.5) (2021-06-23)
+## [0.1.5](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/babel-config-react@0.1.4...@atir-naveed-geeksltd/babel-config-react@0.1.5) (2021-06-23)
 
 
 ### Bug Fixes
@@ -205,7 +221,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.4](https://github.com/medly/configs/compare/@medly/babel-config-react@0.1.3...@medly/babel-config-react@0.1.4) (2021-06-10)
+## [0.1.4](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/babel-config-react@0.1.3...@atir-naveed-geeksltd/babel-config-react@0.1.4) (2021-06-10)
 
 
 ### Bug Fixes
@@ -216,15 +232,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.3](https://github.com/medly/configs/compare/@medly/babel-config-react@0.1.2...@medly/babel-config-react@0.1.3) (2021-06-09)
+## [0.1.3](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/babel-config-react@0.1.2...@atir-naveed-geeksltd/babel-config-react@0.1.3) (2021-06-09)
 
-**Note:** Version bump only for package @medly/babel-config-react
-
-
+**Note:** Version bump only for package @atir-naveed-geeksltd/babel-config-react
 
 
 
-## [0.1.2](https://github.com/medly/configs/compare/@medly/babel-config-react@0.1.1...@medly/babel-config-react@0.1.2) (2021-06-07)
+
+
+## [0.1.2](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/babel-config-react@0.1.1...@atir-naveed-geeksltd/babel-config-react@0.1.2) (2021-06-07)
 
 
 ### Bug Fixes
@@ -235,7 +251,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.1](https://github.com/medly/configs/compare/@medly/babel-config-react@0.1.0...@medly/babel-config-react@0.1.1) (2021-05-31)
+## [0.1.1](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/babel-config-react@0.1.0...@atir-naveed-geeksltd/babel-config-react@0.1.1) (2021-05-31)
 
 
 ### Bug Fixes

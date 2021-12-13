@@ -13,7 +13,7 @@ Prettier rules recommended by Medly to automatically format and clean your react
 ## Install
 
 ```shell
-yarn add -D @medly/prettier-config
+yarn add -D @atir-naveed-geeksltd/prettier-config
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ Add below line in your `package.json`
 
 ```json
 {
- "prettier": "@medly/prettier-config"
+ "prettier": "@atir-naveed-geeksltd/prettier-config"
 }
 ```
 

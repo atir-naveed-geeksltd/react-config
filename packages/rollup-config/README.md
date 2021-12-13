@@ -13,7 +13,7 @@ Rollup configuration recommended by Medly to give next-generation bundling power
 ## Install
 
 ```shell
-yarn add -D @medly/rollup-config
+yarn add -D @atir-naveed-geeksltd/rollup-config
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ Add below code in your `package.json`
 ```json
 {
  "script": {
-  "dist": "rollup --config node_modules/@medly/rollup-config/index.js"
+  "dist": "rollup --config node_modules/@atir-naveed-geeksltd/rollup-config/index.js"
  }
 }
 ```
@@ -35,7 +35,7 @@ Add below code in your `package.json`
 Add `rollup.config.js` file at root level with below code
 
 ```js
-const { configure } = require('@medly/rollup-config');
+const { configure } = require('@atir-naveed-geeksltd/rollup-config');
 
 module.exports = configure({
  input = ["./src/index.ts"]

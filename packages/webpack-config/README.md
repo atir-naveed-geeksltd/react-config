@@ -13,7 +13,7 @@ webpack configuration recommended by Medly to bundle the assets in your projects
 ## Install
 
 ```shell
-yarn add -D @medly/webpack-config
+yarn add -D @atir-naveed-geeksltd/webpack-config
 ```
 
 ## Usage
@@ -25,8 +25,8 @@ Add below code in your `package.json`
 ```json
 {
  "script": {
-  "watch": "webpack serve --open --mode development --config node_modules/@medly/webpack-config",
-  "dist": "webpack --mode production --config node_modules/@medly/webpack-config",
+  "watch": "webpack serve --open --mode development --config node_modules/@atir-naveed-geeksltd/webpack-config",
+  "dist": "webpack --mode production --config node_modules/@atir-naveed-geeksltd/webpack-config",
   "dist:analyze": "npm run dist -- --analyze"
  }
 }
@@ -37,7 +37,7 @@ Add below code in your `package.json`
 Add `webpack.dev.js` file at root level with below code
 
 ```js
-const { configure } = require('@medly/webpack-config');
+const { configure } = require('@atir-naveed-geeksltd/webpack-config');
 
 module.exports = configure({
  devServer: {

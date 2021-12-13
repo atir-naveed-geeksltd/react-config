@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.15](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/prettier-config@0.1.13...@atir-naveed-geeksltd/prettier-config@0.1.15) (2021-12-13)
+
+**Note:** Version bump only for package @atir-naveed-geeksltd/prettier-config
+
+
+
+
+
+## [0.1.14](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/prettier-config@0.1.13...@atir-naveed-geeksltd/prettier-config@0.1.14) (2021-12-13)
+
+**Note:** Version bump only for package @atir-naveed-geeksltd/prettier-config
+
+
+
+
+
 ## [0.1.13](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/prettier-config@0.1.12...@atir-naveed-geeksltd/prettier-config@0.1.13) (2021-12-12)
 
 **Note:** Version bump only for package @atir-naveed-geeksltd/prettier-config
@@ -109,7 +125,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.1](https://github.com/medly/configs/compare/@medly/prettier-config@0.1.0...@medly/prettier-config@0.1.1) (2021-06-10)
+## [0.1.1](https://github.com/medly/configs/compare/@atir-naveed-geeksltd/prettier-config@0.1.0...@atir-naveed-geeksltd/prettier-config@0.1.1) (2021-06-10)
 
 
 ### Bug Fixes

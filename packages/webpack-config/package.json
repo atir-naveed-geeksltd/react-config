@@ -1,7 +1,7 @@
 {
     "name": "@atir-naveed-geeksltd/webpack-config",
     "description": "Basic webpack config",
-    "version": "0.1.13",
+    "version": "0.1.15",
     "sideEffects": false,
     "main": "index.js",
     "types": "index.d.ts",
@@ -11,7 +11,7 @@
         "directory": "packages/webpack-config"
     },
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/"
+        "registry": "https://registry.npmjs.org/atir-naveed-geeksltd"
     },
     "files": [
         "index.js",

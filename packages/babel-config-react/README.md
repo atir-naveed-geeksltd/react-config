@@ -7,7 +7,7 @@ Babel configuration recommended by Medly for react based web applications
 ## Install
 
 ```shell
-yarn add -D @medly/babel-config-react
+yarn add -D @atir-naveed-geeksltd/babel-config-react
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ Add below code in your `package.json`
 ```json
 {
  "babel": {
-  "extends": "@medly/babel-config-react"
+  "extends": "@atir-naveed-geeksltd/babel-config-react"
  }
 }
 ```

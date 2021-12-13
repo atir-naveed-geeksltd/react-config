@@ -9,7 +9,7 @@ Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a
 ## Install
 
 ```shell
-yarn add -D @medly/babel-config
+yarn add -D @atir-naveed-geeksltd/babel-config
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ Add below code in your `package.json`
 ```json
 {
  "babel": {
-  "extends": "@medly/babel-config"
+  "extends": "@atir-naveed-geeksltd/babel-config"
  }
 }
 ```
