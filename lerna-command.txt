@@ -1,2 +1,3 @@
 lerna publish --registry=https://npm.pkg.github.com/ --force-publish
 lerna publish from-git --registry=https://npm.pkg.github.com/
+lerna publish --skip-git --skip-npm --force-publish  * --yes && lerna exec -- npm publish --access=public

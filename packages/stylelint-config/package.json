@@ -1,7 +1,7 @@
 {
     "name": "@atir-naveed-geeksltd/stylelint-config",
     "description": "Basic stylelint config",
-    "version": "0.1.15",
+    "version": "0.1.18",
     "sideEffects": false,
     "main": "index.json",
     "repository": {

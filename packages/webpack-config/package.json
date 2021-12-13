@@ -1,7 +1,7 @@
 {
     "name": "@atir-naveed-geeksltd/webpack-config",
     "description": "Basic webpack config",
-    "version": "0.1.15",
+    "version": "0.1.18",
     "sideEffects": false,
     "main": "index.js",
     "types": "index.d.ts",
