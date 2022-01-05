@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.19](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/babel-config@0.1.13...@atir-naveed-geeksltd/babel-config@0.1.19) (2022-01-05)
+
+**Note:** Version bump only for package @atir-naveed-geeksltd/babel-config
+
+
+
+
+
 ## [0.1.18](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/babel-config@0.1.13...@atir-naveed-geeksltd/babel-config@0.1.18) (2021-12-13)
 
 **Note:** Version bump only for package @atir-naveed-geeksltd/babel-config
