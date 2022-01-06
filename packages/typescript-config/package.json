@@ -1,7 +1,7 @@
 {
     "name": "@atir-naveed-geeksltd/typescript-config",
     "description": "Basic typescript config",
-    "version": "0.1.20",
+    "version": "0.1.21",
     "sideEffects": false,
     "main": "tsconfig.json",
     "repository": {
