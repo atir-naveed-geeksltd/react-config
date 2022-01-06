@@ -1,7 +1,7 @@
 {
     "name": "@atir-naveed-geeksltd/typescript-config-react",
     "description": "Basic typescript config for react app",
-    "version": "0.1.19",
+    "version": "0.1.20",
     "sideEffects": false,
     "main": "tsconfig.json",
     "repository": {
@@ -14,7 +14,7 @@
     },
     "license": "MIT",
     "dependencies": {
-        "@atir-naveed-geeksltd/typescript-config": "0.1.19",
+        "@atir-naveed-geeksltd/typescript-config": "0.1.20",
         "@testing-library/jest-dom": "^5.13.0",
         "typescript": "4.2.4"
     },
