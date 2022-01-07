@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.24](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/typescript-config@0.1.19...@atir-naveed-geeksltd/typescript-config@0.1.24) (2022-01-07)
+
+**Note:** Version bump only for package @atir-naveed-geeksltd/typescript-config
+
+
+
+
+
 ## [0.1.23](https://github.com/atir-naveed-geeksltd/react-config/compare/@atir-naveed-geeksltd/typescript-config@0.1.19...@atir-naveed-geeksltd/typescript-config@0.1.23) (2022-01-06)
 
 **Note:** Version bump only for package @atir-naveed-geeksltd/typescript-config

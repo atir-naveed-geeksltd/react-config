@@ -1,7 +1,7 @@
 {
     "name": "@atir-naveed-geeksltd/rollup-config",
     "description": "Basic rollup config",
-    "version": "0.1.23",
+    "version": "0.1.24",
     "sideEffects": false,
     "main": "index.js",
     "types": "index.d.ts",
