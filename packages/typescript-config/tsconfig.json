@@ -4,6 +4,7 @@
         "esModuleInterop": true,
         "forceConsistentCasingInFileNames": true,
         "isolatedModules": true,
+        "jsx": "react",
         "lib": ["dom", "ES5", "ES2015", "ES2017", "ES2018", "ESNext"],
         "module": "CommonJS",
         "moduleResolution": "node",
@@ -11,6 +12,8 @@
         "resolveJsonModule": true,
         "skipLibCheck": true,
         "strict": true,
+        "strictFunctionTypes": false,
+        "strictNullChecks": false,
         "target": "esnext",
         "types": ["jest", "node"]
     }

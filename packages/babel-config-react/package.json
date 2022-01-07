@@ -1,7 +1,7 @@
 {
     "name": "@atir-naveed-geeksltd/babel-config-react",
     "description": "Basic babel config for simple react app",
-    "version": "0.1.21",
+    "version": "0.1.23",
     "sideEffects": false,
     "main": "index.js",
     "repository": {
@@ -24,7 +24,7 @@
     ],
     "author": "Geeks Ltd.",
     "dependencies": {
-        "@atir-naveed-geeksltd/babel-config": "0.1.21",
+        "@atir-naveed-geeksltd/babel-config": "0.1.23",
         "@babel/plugin-transform-react-jsx": "^7.16.0",
         "@babel/preset-react": "^7.13.13",
         "babel-plugin-inline-react-svg": "1.1.1",

@@ -1,7 +1,7 @@
 {
     "name": "@atir-naveed-geeksltd/webpack-config",
     "description": "Basic webpack config",
-    "version": "0.1.21",
+    "version": "0.1.23",
     "sideEffects": false,
     "main": "index.js",
     "types": "index.d.ts",
@@ -46,6 +46,7 @@
         "stylelint-custom-processor-loader": "^0.6.0",
         "thread-loader": "^3.0.4",
         "tsconfig-paths-webpack-plugin": "^3.5.1",
+        "url-loader": "^4.1.1",
         "webpack": "^5.38.1",
         "webpack-bundle-analyzer": "^4.4.2",
         "webpack-cli": "^4.7.2",
